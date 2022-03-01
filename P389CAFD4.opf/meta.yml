@@ -1,0 +1,20 @@
+id: P389CAFD4
+initial_creation_type: input
+source_metadata:
+  title: Scholasticism Series
+  language: en
+  description: 'Texts on the subject of scholasticism, including warnings of the limitations
+    of intellectual understanding:'
+  volume:
+    3f7615e1b8144538bb6a8a26f21315a9:
+      title: On the Ignorance of the Learned
+      parent: Advice
+    41935c6b10f24d2c8187eb651ea50888:
+      title: An Appeal for the Prosperity of Teaching and Studying the Five Major
+        Scriptures
+      parent: Rituals
+    8319d1c2ce2545ff894c390eec84f61e:
+      title: Many Are the Scholars Who Travel Empty-Handed to the Realm of the Dead
+      parent: Songs and Poems
+created_at: '2022-03-01T05:43:36.560579'
+last_modified_at: '2022-03-01T05:43:36.560585'
